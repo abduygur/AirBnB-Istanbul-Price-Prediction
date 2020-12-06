@@ -1,5 +1,7 @@
 # AirBnB Istanbul Price Prediction
 
+Here is the medium story about this project: https://abduygur.medium.com/airbnb-hosts-and-where-to-find-them-4c204dfd1138
+
 Outline of the project:
 
 1- Overview of the Dataset
