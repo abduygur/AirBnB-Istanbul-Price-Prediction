@@ -1,10 +1,10 @@
 ## Table of Contents
 
-1. Installation
-2. Project Motivation
-3. File Descriptions
-4. Results
-5. Licensing, Authors, Acknowledgements
+1. <a href = "#Installation"> Installation </a>
+2. <a href = "#Project-Motivation" > Project Motivation </a>
+3. <a href = "#File-Descriptions" > File Descriptions </a>
+4. <a href = "#Results" > Results </a>
+5. <a href = "#" > Licensing, Authors, Acknowledgements </a>
 
 
 
