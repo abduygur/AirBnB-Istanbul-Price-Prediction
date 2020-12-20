@@ -40,7 +40,7 @@ There is one notebook available here to showcase work related to the above quest
 
 # Results
 
-The main findings of the code can be found at the post available <a href = "https://medium.com/p/4c204dfd1138/edit" >here</a>
+The main findings of the code can be found at the post available <a href = "https://medium.com/analytics-vidhya/airbnb-hosts-and-where-to-find-them-4c204dfd1138" >here</a>
 
 
 
