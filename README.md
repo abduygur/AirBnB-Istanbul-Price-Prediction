@@ -4,7 +4,7 @@
 2. <a href = "#Project-Motivation" > Project Motivation </a>
 3. <a href = "#File-Descriptions" > File Descriptions </a>
 4. <a href = "#Results" > Results </a>
-5. <a href = "#" > Licensing, Authors, Acknowledgements </a>
+5. <a href = "#licensing-authors-acknowledgements" > Licensing, Authors, Acknowledgements </a>
 
 
 
