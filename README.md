@@ -32,7 +32,10 @@ For this project, I was interested in using Airbnb-Istanbul Data from 2020 to be
 
 # File Descriptions
 
-There is one notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps. Also there is an html file which shows the after notebooks code run.
+The listings.csv.gz file is the airbnb-istanbul 2020 data i used in this project.
+
+There is one notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps. Also there is an html file which shows the after notebooks code run. 
+
 
 
 # Results
